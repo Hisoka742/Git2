@@ -1,6 +1,4 @@
-# empty array
-arr = [] 
+import array as arr
+ 
 
-# init with values (can contain mixed types)
-arr = [1, "eels"]
-arr  = [3, 2, 4, 2]
+a = arr.array('i', [1, 2, 3])
