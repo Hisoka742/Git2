@@ -1,0 +1,5 @@
+import array as arr1
+ 
+
+a = arr1.array('i', [1,4, 2, 3])
+print ("The created array is : ", end =" ")
